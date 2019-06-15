@@ -1,0 +1,59 @@
+
+* {
+  box-sizing: border-box; 
+  margin: 0 auto; 
+}
+
+body { 
+  font-family: Georgia, Times, 'Times New Roman', serif; 
+  background-image: url("../../assets/images/floor-tile.png");
+}
+
+header {
+  margin-bottom: 40px; 
+  background-color: #fff; 
+  height: 105px; 
+  border-bottom: 2px solid #ccc; 
+}
+
+#name {
+  margin: 0;
+  font-weight: 800px; 
+  text-align: center; 
+  font-weight: 800px; 
+  background: #4aaaa5;
+  padding: 25px 0px;  
+  color: #fff; 
+
+}
+
+li a {
+  border-left: 1px solid #777;
+}
+
+#contact {
+    border-left: none;
+}
+
+#main-container {
+  background-color: #fff; 
+}
+
+#top-header {
+  border-bottom: 2px solid #777; 
+}
+
+footer {
+  margin-top: 100px 0; 
+  width: 100%;
+	height: 70px;
+  background-color: #666;
+  text-align: center; 
+  font-size: 14px; 
+	bottom: 0;
+	color: #ddd;
+	padding-top: 20px;
+  border-top: 10px solid #4aaaa5;
+  position: fixed; 
+  bottom: 0; 
+}
